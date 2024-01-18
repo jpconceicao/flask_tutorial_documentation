@@ -3,7 +3,6 @@ click==8.1.3
 colorama==0.4.6
 exceptiongroup==1.1.1
 Flask==2.2.3
--e git+https://github.com/jpconceicao/flask_tutorial_documentation.git@cf44475528f74580442fd73bcc2058e8d7cdec16#egg=flaskr
 iniconfig==2.0.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
